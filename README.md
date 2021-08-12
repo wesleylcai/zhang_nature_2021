@@ -16,5 +16,8 @@ Code used to produce figures in PMID
 
 #### Figure eF6
 
+#### Figure eF7
+1. [210513_atac_diffbind_sizefactors_git.R](scripts/210513_atac_diffbind_sizefactors_git.R)
+
 #### Figure eF10
 1. [190909_melanoma_salmon_git.R](scripts/190909_melanoma_salmon_git.R)

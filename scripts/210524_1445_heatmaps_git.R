@@ -19,7 +19,7 @@ setwd(file.path(mainwd, outputfolder))
 
 source("common/metaplot_heatmap_functions.R")
 
-# File can be found at GSE161065
+# File can be found at GSE161065: Superseries
 repmask <- fread("../../dat/mm10.repmask.s.bed")
 repmask.dict <- fread("../../dat/repmask.dfam.final.dict.txt")
 

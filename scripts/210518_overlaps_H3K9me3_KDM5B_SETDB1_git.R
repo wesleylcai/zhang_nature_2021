@@ -13,7 +13,7 @@ outputfolder <- "output/"
 dir.create(file.path(mainwd, outputfolder), recursive = TRUE, showWarnings = FALSE)
 setwd(file.path(mainwd, outputfolder))
 
-# File can be found at GSE161065
+# File can be found at GSE161065: Superseries
 repmask.rna.dict <- fread("../../dat/mm10.repmask.rna.dict.txt")
 
 library(showtext)

@@ -15,7 +15,7 @@ setwd(file.path(mainwd, outputfolder))
 source("../common/metaplot_heatmap_functions.R")
 repmask.rna.dict <- fread("../../dat/mm10.repmask.rna.dict.txt")
 
-# File can be found at GSE161065
+# File can be found at GSE161065: Superseries
 bedfile <- fread("../../dat/mm10.repmask.s.bed")
 bedfile[, repmask.name := paste0(V4, "_", V1, "-", V2, "-", V3)]
 bedfile.merge <- merge(bedfile, repmask.rna.dict, by = "repmask.name")

@@ -17,7 +17,7 @@ dir.create(file.path(mainwd, outputfolder), recursive = TRUE, showWarnings = FAL
 setwd(file.path(mainwd, outputfolder))
 
 #### Load files ####
-# File can be found at GSE161065
+# File can be found at GSE175574: ATAC-seq
 rep.atac <- fread("../../dat/repmask.atac.bed")
 res.dt <- fread("../../dat/atac_results_library.sizefactor.txt")
 #### Load files ####

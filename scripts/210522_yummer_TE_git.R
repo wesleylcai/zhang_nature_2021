@@ -27,6 +27,7 @@ fwrite(res.merged.subset.te, "yummer.sgKDM5B_v_sgCtrl.results.TEonly.txt", sep =
 #### non-loci ####
 
 #### loci ####
+# This file can be found in GSE161065
 load("../../dat/yummer.loc.res.merged.RData")
 res.merged.subset <- as.data.table(res.merged)
 res.merged.subset[, repmask.name := gsub("_chr.*", "", row)]

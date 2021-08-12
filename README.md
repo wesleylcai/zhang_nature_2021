@@ -4,6 +4,7 @@ Code used to produce figures in PMID
 ### Dependencies
 1. [bwtool](https://github.com/CRG-Barcelona/bwtool)
 2. [bedtools](https://github.com/arq5x/bedtools2/releases/tag/v2.27.1)
+3. [R libraries](dependencies.rlibraries.txt)
 
 #### Figure 1
 1. [190909_melanoma_salmon_git.R](scripts/190909_melanoma_salmon_git.R)

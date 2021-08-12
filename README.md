@@ -21,6 +21,10 @@ Code used to produce figures in PMID
 #### Figure eF4
 
 #### Figure eF6
+1. 
+2. 
+3. 
+4. [210518_overlaps_KDM5B_SETDB1_git.R](script/210518_overlaps_KDM5B_SETDB1_git.R)
 
 #### Figure eF7
 1. [210519_metagenes_git.R](scripts/210519_metagenes_git.R)

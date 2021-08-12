@@ -10,6 +10,8 @@ library(ComplexHeatmap)
 library(circlize)
 library(RColorBrewer)
 
+# OG: Google_Drive/medschool/research/qin/melanoma/GSE78220_hugo/melanoma_pembro/salmon/190909_melanoma_salmon_edited.R
+
 mainwd <- "."
 outputfolder <- "output/"
 dir.create(file.path(mainwd, outputfolder), recursive = TRUE, showWarnings = FALSE)

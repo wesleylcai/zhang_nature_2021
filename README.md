@@ -23,7 +23,7 @@ Code used to produce figures in PMID
 #### Figure eF6
 1. 
 2. 
-3. 
+3. [210524_1445_heatmaps_git.R](script/210524_1445_heatmaps_git.R)
 4. [210518_overlaps_KDM5B_SETDB1_git.R](script/210518_overlaps_KDM5B_SETDB1_git.R)
 
 #### Figure eF7

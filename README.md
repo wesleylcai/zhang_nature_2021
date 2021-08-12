@@ -1,6 +1,9 @@
 # zhang_nature_2021
 Code used to produce figures in PMID
 
+### Dependencies
+1. [bwtool](https://github.com/CRG-Barcelona/bwtool) installed
+
 #### Figure 1
 1. [190909_melanoma_salmon_git.R](scripts/190909_melanoma_salmon_git.R)
 

@@ -17,6 +17,7 @@ Code used to produce figures in PMID
 3. [210513_atac_diffbind_sizefactors_git.R](scripts/210513_atac_diffbind_sizefactors_git.R)
 
 #### Figure eF1
+1. [210521_rna_git.R](script/210521_rna_git.R)
 
 #### Figure eF4
 1. [210331_process_exonerate_git.R](script/210331_process_exonerate_git.R)

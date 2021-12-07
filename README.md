@@ -18,16 +18,16 @@ Code used to produce figures in PMID
 3. [210513_atac_diffbind_sizefactors_git.R](scripts/210513_atac_diffbind_sizefactors_git.R)
 
 #### Figure eF1
-1. [210521_rna_git.R](script/210521_rna_git.R)
+1. [210521_rna_git.R](scripts/210521_rna_git.R)
 
 #### Figure eF4
-1. [210331_process_exonerate_git.R](script/210331_process_exonerate_git.R)
+1. [210331_process_exonerate_git.R](scripts/210331_process_exonerate_git.R)
 
 #### Figure eF6
-1. [210527_yummer_heatmaps_top10up_git.R](script/210527_yummer_heatmaps_top10up_git.R)
-2. [210522_1445_TE_git.R](script/210522_1445_TE_git.R)
-3. [210524_1445_heatmaps_git.R](script/210524_1445_heatmaps_git.R)
-4. [210518_overlaps_KDM5B_SETDB1_git.R](script/210518_overlaps_KDM5B_SETDB1_git.R)
+1. [210527_yummer_heatmaps_top10up_git.R](scripts/210527_yummer_heatmaps_top10up_git.R)
+2. [210522_1445_TE_git.R](scripts/210522_1445_TE_git.R)
+3. [210524_1445_heatmaps_git.R](scripts/210524_1445_heatmaps_git.R)
+4. [210518_overlaps_KDM5B_SETDB1_git.R](scripts/210518_overlaps_KDM5B_SETDB1_git.R)
 
 #### Figure eF7
 1. [210519_metagenes_git.R](scripts/210519_metagenes_git.R)
